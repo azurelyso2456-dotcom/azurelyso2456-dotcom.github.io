@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azurelyso2456-dotcom.github.io/sitemap.xml
+Sitemap: https://azurelyso2456-dotcom.github.io/hatakebo/sitemap.xml
